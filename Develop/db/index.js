@@ -13,7 +13,13 @@ class DB {
       // id, first_name, last_name FROM employee TABLE AND department name from department TABLE AND SELECT salary FROM role TABLE
       // YOUR NEED TO USE LEFT JOINS TO JOIN THREE TABLES
       // TODO: YOUR CODE HERE
-
+      `SELECT employee.id, employee.first_name, employee.last_name, role.title, department.name AS department, role.salary,
+      CONCAT (manager.first_name, " " , manager.last_name) AS manager
+      FROM employee
+      LEFT JOIN role ON employee.role_id = role.id
+      LEFT JOIN department ON role.department_id = department.id
+      LEFT JOIN employee manager ON manager.id = employee.manager_id;
+      `
     );
   }
 
@@ -35,7 +41,8 @@ class DB {
   updateEmployeeRole(employeeId, roleId) {
     return this.connection.query(
       // TODO: YOUR CODE HERE
-
+      "UPDATE employee SET role_id = ? WHERE id = ?",
+      [roleId, employeeId]
     );
   }
 
