@@ -29,5 +29,6 @@
 ![Screenshot of Application](https://github.com/bjtsmith23/Employee-Management-System/blob/main/Assets/Capture.PNG)
 
  ## Walkthrough Video of Application
+Link below for walkingthrough video!
 
-![Walkthrough Video](https://drive.google.com/file/d/1ECU-PlUD1bdd2eLdDyNoUuV0HaDb0Q66/view)
+https://drive.google.com/file/d/1ECU-PlUD1bdd2eLdDyNoUuV0HaDb0Q66/view
