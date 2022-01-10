@@ -26,7 +26,7 @@
 
   ## Screenshot
 
-![Screenshot of Application](/assets/Capture.PNG)
+![Screenshot of Application](https://github.com/bjtsmith23/Employee-Management-System/blob/main/Assets/Capture.PNG)
 
  ## Walkthrough Video of Application
 
