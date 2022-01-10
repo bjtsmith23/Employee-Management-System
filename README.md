@@ -30,4 +30,4 @@
 
  ## Walkthrough Video of Application
 
-![Walkthrough Video](https://drive.google.com/file/d/1ECU-PlUD1bdd2eLdDyNoUuV0HaDb0Q66/view?usp=sharing)
+![Walkthrough Video](https://drive.google.com/file/d/1ECU-PlUD1bdd2eLdDyNoUuV0HaDb0Q66/view)
