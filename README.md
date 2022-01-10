@@ -26,7 +26,7 @@
 
   ## Screenshot
 
-![Screenshot of Application](/assets/Capture.png)
+![Screenshot of Application](/assets/Capture.PNG)
 
  ## Walkthrough Video of Application
 
