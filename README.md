@@ -9,11 +9,11 @@
   - [License](#License)
   - [Questions](#Questions)
   ## Description
-  Employee Management Data base that keeps track of Employees, roles and salary etc.
+  This repo consists of an Employee Management Data base that keeps track of departments, roles, and employees etc. The user is able toggle between those options to see the data each one contains and the user can also add employees and roles.
   ## Installations
-  npm i / node index.js
-  ## Usage
-  To add employees and keep track of roles, salaries and jobs.
+  npm install inquirer
+  npm init -y
+  npm install mysql2
   ## Tests
   npm test
   ## License
@@ -30,4 +30,4 @@
 
  ## Walkthrough Video of Application
 
-![Walkthrough Video](https://drive.google.com/file/d/1CfIVMy8wG-6xSXD0_pDKGBKr5d4uk3v6/view?usp=sharing)
+![Walkthrough Video](https://watch.screencastify.com/v/nQXygzXDBKAKIYGYGgBe)
